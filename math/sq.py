@@ -1,5 +1,6 @@
-from math import sqrt, sin;
+from math import sqrt;
+
 A = 16
-B = 3.14
+B = 121
 print(sqrt(A))
-print(sin(B))
+print(sqrt(B))
